@@ -1,2 +1,0 @@
-This is a text (txt) file type document.
-It will be used in Sourcetree as a test document.
